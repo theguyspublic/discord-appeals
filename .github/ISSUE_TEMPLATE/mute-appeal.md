@@ -20,10 +20,4 @@ assignees: ''
 **Please send a screenshot of your punishment**
 
 
-**What server were you muted on?**
-- [ ] KitPvP
-- [ ] hub-1
-- [ ] Survival
-- [ ] event-a
-
 Thank you for submitting an appeal. Please know that submitting multiple appeals will result in a block of the appeal system.
