@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Please only check the box below if you were the one who triggered the ban.**
-- [ ] I logged into my account from a different IP and triggered the ban.
+- [ ] I made actions that were deemed suspicious and triggered the ban.
 
 - [ ] I have secured my account since the ban.
 **When did the ban occur?**
