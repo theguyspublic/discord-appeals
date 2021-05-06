@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Minecraft Username:**
+**Discord Username:**
 
 - [ ] I admit to being guilty for this ban.
 - [ ] I understand that if my ban appeal is denied i will need to wait an additional 1 week to reappeal.

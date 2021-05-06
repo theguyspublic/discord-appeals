@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Minecraft Username:**
+**Discord Username:**
 
 **Please only check the box below if you were the one who triggered the ban.**
 - [ ] I made actions that were deemed suspicious and triggered the ban.
